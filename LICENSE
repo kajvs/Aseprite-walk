@@ -1,0 +1,75 @@
+aseprite-walk-cycle — a 3-frame walk-cycle skill for Aseprite
+Copyright (c) 2026 kajvs <https://github.com/kajvs>
+
+本作品包括仓库内的全部文件：SKILL.md、README.md、LICENSE、references/ 与 templates/ 下的
+所有脚本与文档（以下称“本作品”）。
+
+本作品以 **CC BY-NC-SA 4.0**（Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International，知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议）发布。
+许可证全文（以英文法律文本为准）：
+
+    https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+    简体中文：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans
+
+--------------------------------------------------------------------------------
+你被许可做的事（在遵守下列三点前提下）
+
+  · 复制、分发、修改、改编本作品，并在你自己的项目中使用它（个人项目、学习、研究、
+    免费开源项目、非营利的教学与作品集等）；
+  · 把它的方法用在你的商业美术流程里之前，请先看第 2 条。
+
+你必须遵守的三点
+
+  1. 署名（BY）
+     必须以合理方式注明原作者，并附上本仓库链接。具体要求：
+       - 保留本 LICENSE 文件（不得删除或修改版权声明）；
+       - 在你的 README、文档、视频说明或作品页中写明：
+         “Based on aseprite-walk-cycle by kajvs — https://github.com/kajvs/Aseprite-walk”
+         （中文可写：“基于 kajvs 的 aseprite-walk-cycle — https://github.com/kajvs/Aseprite-walk”）；
+       - 若你 fork 或再发布，同样的署名必须出现在新仓库的 README 顶部。
+
+  2. 非商业性使用（NC）
+     不得将本作品或其衍生作品用于任何以商业利益或金钱报酬为主要目的的用途，包括但不限于：
+       - 在公司内部或对客户交付的商业项目中直接使用；
+       - 打包进付费软件、付费课程、付费素材包、订阅服务、众筹或广告变现的内容；
+       - 使用本作品（含其文档或脚本）训练、微调、蒸馏任何用于商业用途的模型；
+       - 以本作品为基础提供付费的咨询、外包、代做服务。
+     任何商业用途都必须事先取得作者的书面许可。
+
+  3. 相同方式共享（SA）
+     你分发基于本作品修改或改编的成果时，必须继续以 CC BY-NC-SA 4.0（或与之兼容的
+     许可）发布，不得改为更宽松或允许商用的条款。
+
+--------------------------------------------------------------------------------
+商业授权（Commercial licensing）
+
+  需要商用？请先联系作者取得单独的商业授权：
+    联系方式：https://github.com/kajvs
+  未经书面许可的任何商业使用均属侵权。
+
+--------------------------------------------------------------------------------
+免责声明（Disclaimer）
+
+  本作品按“现状”提供，不附带任何明示或暗示的担保，包括但不限于适销性、特定用途适用性
+  与不侵权担保。作者不对使用本作品造成的任何直接或间接损失负责。
+  本作品中的像素画方法是基于对样例素材的实测得出的经验流程，不保证适用于所有素材；
+  使用者须自行确认其输入素材的版权归属。
+
+--------------------------------------------------------------------------------
+English summary (the Chinese text above and the CC BY-NC-SA 4.0 legal code govern)
+
+  You may copy, share, modify and use this work for NON-COMMERCIAL purposes only,
+  provided that you:
+    1) ATTRIBUTION — keep this LICENSE, and credit the author with the repository link
+       ("Based on aseprite-walk-cycle by kajvs — https://github.com/kajvs/Aseprite-walk")
+       in your README or documentation, including on any fork or redistribution;
+    2) NON-COMMERCIAL — do not use it (or a derivative) in any commercial product,
+       paid service, paid course, monetised content, or to train a model for commercial
+       use;
+    3) SHARE-ALIKE — license any derivative under CC BY-NC-SA 4.0 (or a compatible
+       license), not under more permissive terms.
+  Commercial use requires the author's prior written permission.
+
+  Note: because of the non-commercial restriction this is a “source-available”
+  licence, not an OSI-approved open-source licence. The full CC BY-NC-SA 4.0 legal
+  code at the URL above is the authoritative text; nothing in this summary overrides it.
